@@ -1,0 +1,49 @@
+.pingouin{
+    background-image: url('./image/pingouin.png');
+    background-attachment: fixed;
+    background-size: cover;
+}
+.feuilles{
+    background: scroll top;
+    background-image: url(./image/feuilles.png);
+   
+}
+.violet{
+    color: darkviolet;
+}
+.italic{
+    font-style: italic;
+}
+p{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.bordure{
+    border-top:auto;
+    border-bottom: auto;
+    border-left: auto;
+    border-right:auto;
+    background-color: rgb(226, 96, 96);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.bordureint{
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-top: auto;
+    border-bottom: auto;
+    border-left: auto;
+    border-right: auto;
+    background-color: red;
+    opacity: 90%;
+    background-image: url('./image/pingouin.png');
+}
+.espace{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.vert{
+    background-color: green;
+}
