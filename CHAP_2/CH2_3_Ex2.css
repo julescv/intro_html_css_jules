@@ -1,12 +1,12 @@
 .pingouin{
-    background-image: url('./image/pingouin.png');
+    background-image: url(pingouin.png);
     background-attachment: fixed;
     background-size: cover;
 }
-.feuilles{
+.vert{
     background: scroll top;
-    background-image: url(./image/feuilles.png);
-   
+    background-image: url(feuilles.png);
+    background-color: green;
 }
 .violet{
     color: darkviolet;
@@ -38,12 +38,9 @@ p{
     border-right: auto;
     background-color: red;
     opacity: 90%;
-    background-image: url('./image/pingouin.png');
+    background-image: url(pingouin.png);
 }
 .espace{
     margin-left: 20px;
     margin-right: 20px;
-}
-.vert{
-    background-color: green;
 }
