@@ -1,0 +1,117 @@
+nav {
+    border-radius: 3px;
+    border-style: solid;
+    border-color: rgba(3, 5, 129, 0.63);
+    text-align: center;
+    height: 150px;
+    background-color: rgba(193, 193, 252, 0.342);
+    opacity: 1;
+    font-size: x-large;
+    display: flex;
+}
+.intro {
+    border-radius: 15px;
+    border-style: solid;
+    border-color: rgb(3, 5, 129);
+    height: 100px;
+    width: auto;
+    text-align: center;
+    background-color: rgb(179, 179, 255);
+    font-size: 25px;
+    margin: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
+
+.all {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgba(54, 54, 193, 0.747);
+    height: 300px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+
+.sub {
+    padding-top: 20px;
+    
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    margin: auto;
+    margin-top: 20px;
+    width: 50%;
+}
+
+
+.texte {
+    background-color: rgba(17, 17, 206, 0.114);
+    box-shadow: 4px 8px 0 rgba(0, 0, 0, 0.2);
+    height: 100px;
+    width: 200px;
+    justify-content: center;
+    margin-top: 10%;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+.ful {
+    display: flex;
+    justify-content: center;
+}
+.image1 {
+    height: 300px;
+    width: 300px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    background-color: rgba(179, 179, 179, 0.486);
+}
+.image2 {
+    height: 300px;
+    width: 300px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    background-color: rgba(179, 179, 179, 0.486);
+}
+.image3 {
+    height: 300px;
+    width: 300px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    background-color: rgba(179, 179, 179, 0.486);
+}
+.image1:active {
+    background-image: url('domotique.jpg');
+    background-size: cover;
+}
+.image2:active {
+    background-image: url('fromage.JPG');
+    background-size: cover;
+}
+.image3:active {
+    background-image: url('blanchisserie.jpg');
+    background-size: cover;
+}
+.info {
+    font-size: large;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+body {
+    background-image: url('vert.avif');
+    background-size: cover;
+}

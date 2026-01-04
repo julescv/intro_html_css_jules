@@ -1,0 +1,29 @@
+nav {
+    border-radius: 3px;
+    border-style: solid;
+    border-color: rgba(3, 5, 129, 0.63);
+    text-align: center;
+    height: 150px;
+    background-color: rgba(193, 193, 252, 0.342);
+    opacity: 1;
+    font-size: x-large;
+    display: flex;
+}
+.intro {
+    border-radius: 15px;
+    border-style: solid;
+    border-color: rgb(3, 5, 129);
+    height: 100px;
+    width: auto;
+    text-align: center;
+    background-color: rgb(179, 179, 255);
+    font-size: 25px;
+    margin: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
+body {
+    background-image: url('fond.jpg');
+    background-size: cover;
+}
